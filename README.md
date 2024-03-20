@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 - 🔭 I'm a recent MBA graduate who has expereinced as reporting analyst and project management
 - 🌱 I’m recently ventured into the fields of data science and machine learning.
 
-<h4 align="center">For my full portfolio, visit my website: <a href="https://envaldy.github.io/" style="color: blue;">Your Website</a></h4>
+<h4 align="center">For my full portfolio, visit my website: <a href="https://envaldy.github.io/" style="color: blue;">My Website</a></h4>
 
 
 <p align="left">
