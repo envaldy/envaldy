@@ -7,8 +7,8 @@ Here are some ideas to get you started:-->
 
 <h3 align="left">I am Novaldi from Indonesia</h3>
 
-- 🔭 I'm a recent MBA graduate who has expereinced as reporting analyst and project management
-- 🌱 I’m recently ventured into the fields of data science and machine learning.
+- 🔭 I'm an MBA graduate who has expereinced as reporting analyst and project management
+- 🌱 Recently, I ventured into the fields of data science and machine learning.
 
 <h3 align="center">For my full portfolio, visit my website: <a href="https://envaldy.github.io/" style="color: blue;">My Website</a></h3>
 <br>
